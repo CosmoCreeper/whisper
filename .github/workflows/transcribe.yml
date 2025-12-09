@@ -13,21 +13,21 @@ jobs:
         run: sudo apt update && sudo apt install build-essential ffmpeg cmake
 
       - name: Clone whisper.cpp
-        run: |
-          git clone https://github.com/ggerganov/whisper.cpp
-          cd whisper.cpp
+        run: git clone https://github.com/ggerganov/whisper.cpp
 
       - name: Build whisper.cpp
-        run: make
+        run: |
+          cd whisper.cpp
+          make
 
       - name: Download tiny Whisper model
-        run: ./models/download-ggml-model.sh tiny.en
+        run: ./whisper.cpp/models/download-ggml-model.sh tiny.en
 
       - name: Transcribe video
         run: |
-          ./build/bin/whisper-cli \
-            -m models/ggml-tiny.en.bin \
-            -f ../input.mp3 \
+          ./whisper.cpp/build/bin/whisper-cli \
+            -m whisper.cpp/models/ggml-tiny.en.bin \
+            -f input.mp3 \
             --output-json \
             -of output
 
