@@ -1,0 +1,3981 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | CPU : SSE3 = 1 | SSSE3 = 1 | AVX = 1 | AVX2 = 1 | F16C = 1 | FMA = 1 | BMI2 = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "tiny",
+		"multilingual": false,
+		"vocab": 51864,
+		"audio": {
+			"ctx": 1500,
+			"state": 384,
+			"head": 6,
+			"layer": 4
+		},
+		"text": {
+			"ctx": 448,
+			"state": 384,
+			"head": 6,
+			"layer": 4
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "whisper.cpp/models/ggml-tiny.en.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:27,280"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 27280
+			},
+			"text": " Last week, Peter and John went to the temple and healed a man and then told everyone"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,280",
+				"to": "00:00:32,160"
+			},
+			"offsets": {
+				"from": 27280,
+				"to": 32160
+			},
+			"text": " how they did it through the power of Jesus, reminding everyone how they, the people"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,160",
+				"to": "00:00:36,560"
+			},
+			"offsets": {
+				"from": 32160,
+				"to": 36560
+			},
+			"text": " in Jerusalem and the religious leaders, killed Jesus who was the Messiah, but he rose"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,560",
+				"to": "00:00:41,600"
+			},
+			"offsets": {
+				"from": 36560,
+				"to": 41600
+			},
+			"text": " again from the dead and they needed to repent. I wonder how everyone took that message."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,600",
+				"to": "00:00:50,400"
+			},
+			"offsets": {
+				"from": 41600,
+				"to": 50400
+			},
+			"text": " Let's find out. Turn to Acts chapter 4. Acts chapter 4, new chapter. Verse 1, now as they spoke"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:50,400",
+				"to": "00:00:56,240"
+			},
+			"offsets": {
+				"from": 50400,
+				"to": 56240
+			},
+			"text": " to the people, the priests, the captain of the temple and the Sadducees came upon them being"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:56,240",
+				"to": "00:01:01,920"
+			},
+			"offsets": {
+				"from": 56240,
+				"to": 61920
+			},
+			"text": " greatly disturbed that they taught the people and preached in Jesus the resurrection from the dead."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:01,920",
+				"to": "00:01:06,080"
+			},
+			"offsets": {
+				"from": 61920,
+				"to": 66080
+			},
+			"text": " They laid hands on them and put them in custody until the next day,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:06,080",
+				"to": "00:01:10,960"
+			},
+			"offsets": {
+				"from": 66080,
+				"to": 70960
+			},
+			"text": " for it was already evening. However, many of those who heard the word believed and the number"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,960",
+				"to": "00:01:17,280"
+			},
+			"offsets": {
+				"from": 70960,
+				"to": 77280
+			},
+			"text": " of the men came to be about 5,000. That's a pretty good response to preaching a sermon, isn't it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:17,280",
+				"to": "00:01:22,160"
+			},
+			"offsets": {
+				"from": 77280,
+				"to": 82160
+			},
+			"text": " Verse 5, and it came to pass on the next day that the rulers, elders, and the scribes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:22,160",
+				"to": "00:01:26,880"
+			},
+			"offsets": {
+				"from": 82160,
+				"to": 86880
+			},
+			"text": " as well as Anas, the high priest, Caiaphas, John, and Alexander, and as many as we're the family"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:26,880",
+				"to": "00:01:32,000"
+			},
+			"offsets": {
+				"from": 86880,
+				"to": 92000
+			},
+			"text": " of the high priests, we're gathered together in Jerusalem. And when they had set them in the midst,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:32,000",
+				"to": "00:01:38,720"
+			},
+			"offsets": {
+				"from": 92000,
+				"to": 98720
+			},
+			"text": " they asked by what power or by what name have you done this? And Peter Philip with the Holy"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:38,720",
+				"to": "00:01:44,800"
+			},
+			"offsets": {
+				"from": 98720,
+				"to": 104800
+			},
+			"text": " Spirit said to them, rulers of the people and elders of Israel, if we this day are judged for"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:44,800",
+				"to": "00:01:53,280"
+			},
+			"offsets": {
+				"from": 104800,
+				"to": 113280
+			},
+			"text": " a good deed done to a helpless man, by what means he has been made well. Let it be known to you"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:53,280",
+				"to": "00:01:59,520"
+			},
+			"offsets": {
+				"from": 113280,
+				"to": 119520
+			},
+			"text": " and to all the people in the Israel, but by the name of Jesus Christ of Nazareth whom you crucified,"
+		},
+		{
+			"timestamps": {
+				"from": "00:01:59,520",
+				"to": "00:02:06,080"
+			},
+			"offsets": {
+				"from": 119520,
+				"to": 126080
+			},
+			"text": " whom God raised from the dead, by him this man stands here before you whole. This is the stone"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:06,080",
+				"to": "00:02:12,080"
+			},
+			"offsets": {
+				"from": 126080,
+				"to": 132080
+			},
+			"text": " that was rejected by the builders, which has become the chief cornerstone, nor is there salvation"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:12,080",
+				"to": "00:02:19,040"
+			},
+			"offsets": {
+				"from": 132080,
+				"to": 139040
+			},
+			"text": " in any other, for there is none other name under heaven given among men whereby we must be saved."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:19,040",
+				"to": "00:02:26,640"
+			},
+			"offsets": {
+				"from": 139040,
+				"to": 146640
+			},
+			"text": " And seeing the man who had been healed of verse number 13, sorry, and now when they saw"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,640",
+				"to": "00:02:31,200"
+			},
+			"offsets": {
+				"from": 146640,
+				"to": 151200
+			},
+			"text": " the boldness of Peter and John and perceived that they were uneducated and untrained, they marveled,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:31,200",
+				"to": "00:02:36,560"
+			},
+			"offsets": {
+				"from": 151200,
+				"to": 156560
+			},
+			"text": " and they realized that they've been with Jesus. And seeing the man who had been healed, standing with"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:36,560",
+				"to": "00:02:43,120"
+			},
+			"offsets": {
+				"from": 156560,
+				"to": 163120
+			},
+			"text": " them, they could not say anything against it. But then when they had commanded them to go aside"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:43,120",
+				"to": "00:02:48,800"
+			},
+			"offsets": {
+				"from": 163120,
+				"to": 168800
+			},
+			"text": " out of the council, they conferred amongst themselves saying, \"What shall we do about these men?"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:48,800",
+				"to": "00:02:55,680"
+			},
+			"offsets": {
+				"from": 168800,
+				"to": 175680
+			},
+			"text": " For indeed, a notable miracle has been done through them, and it's evident to all in Jerusalem,"
+		},
+		{
+			"timestamps": {
+				"from": "00:02:55,680",
+				"to": "00:03:04,000"
+			},
+			"offsets": {
+				"from": 175680,
+				"to": 184000
+			},
+			"text": " we can't deny it, but so that it spreads no further among the people, let us severely threaten them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:04,000",
+				"to": "00:03:11,120"
+			},
+			"offsets": {
+				"from": 184000,
+				"to": 191120
+			},
+			"text": " that from now on they speak to no man in this name.\" So they called them and commanded them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:11,120",
+				"to": "00:03:17,360"
+			},
+			"offsets": {
+				"from": 191120,
+				"to": 197360
+			},
+			"text": " not to speak at all nor teach in the name of Jesus. But Peter and John answered and said to them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:17,360",
+				"to": "00:03:23,600"
+			},
+			"offsets": {
+				"from": 197360,
+				"to": 203600
+			},
+			"text": " \"Whether it is right in the sight of God to listen to you, more than God, you judge, for we cannot,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:23,600",
+				"to": "00:03:28,960"
+			},
+			"offsets": {
+				"from": 203600,
+				"to": 208960
+			},
+			"text": " but speak the things which we have seen and heard. So when they had further threatened them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:29,520",
+				"to": "00:03:35,600"
+			},
+			"offsets": {
+				"from": 209520,
+				"to": 215600
+			},
+			"text": " they let them go, finding no way to punish them, because of the people, since they all glorified"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:35,600",
+				"to": "00:03:43,520"
+			},
+			"offsets": {
+				"from": 215600,
+				"to": 223520
+			},
+			"text": " God for what had been done. For the man was over 40 years old, whom the miracle of healing had"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:43,520",
+				"to": "00:03:51,920"
+			},
+			"offsets": {
+				"from": 223520,
+				"to": 231920
+			},
+			"text": " been performed. So the disciples' miracle and message greatly disturbs the Sadducees,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:51,920",
+				"to": "00:03:58,640"
+			},
+			"offsets": {
+				"from": 231920,
+				"to": 238640
+			},
+			"text": " so they arrest Peter and John. Imagine being arrested for healing someone, for helping someone,"
+		},
+		{
+			"timestamps": {
+				"from": "00:03:58,640",
+				"to": "00:04:02,400"
+			},
+			"offsets": {
+				"from": 238640,
+				"to": 242400
+			},
+			"text": " that's crazy, right? That would never happen to America, would it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:02,400",
+				"to": "00:04:09,440"
+			},
+			"offsets": {
+				"from": 242400,
+				"to": 249440
+			},
+			"text": " In Fort Lauderdale, Florida, police arrested a 90-year-old man for feeding homeless people in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:09,440",
+				"to": "00:04:16,080"
+			},
+			"offsets": {
+				"from": 249440,
+				"to": 256080
+			},
+			"text": " park without a permit. How dare you? Houston, Texas, volunteers, faced fines for distributing food"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:16,080",
+				"to": "00:04:24,960"
+			},
+			"offsets": {
+				"from": 256080,
+				"to": 264960
+			},
+			"text": " without city authorization. In Nevada, Las Vegas, ordinances restrict food, sharing, and public"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:24,960",
+				"to": "00:04:29,040"
+			},
+			"offsets": {
+				"from": 264960,
+				"to": 269040
+			},
+			"text": " spaces to discourage gatherings of homeless individuals. We don't want those homeless people"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:29,040",
+				"to": "00:04:34,480"
+			},
+			"offsets": {
+				"from": 269040,
+				"to": 274480
+			},
+			"text": " gathering. Let's not feed them, and I like pigeons. They just keep flocking if you do that."
+		},
+		{
+			"timestamps": {
+				"from": "00:04:34,480",
+				"to": "00:04:38,160"
+			},
+			"offsets": {
+				"from": 274480,
+				"to": 278160
+			},
+			"text": " It's against a lot of feed hungry people in some cities. That seems wrong, doesn't it?"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:38,160",
+				"to": "00:04:47,600"
+			},
+			"offsets": {
+				"from": 278160,
+				"to": 287600
+			},
+			"text": " Also, saw in the United Kingdom, Christian woman in Birmingham was arrested for silently praying"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:47,600",
+				"to": "00:04:53,120"
+			},
+			"offsets": {
+				"from": 287600,
+				"to": 293120
+			},
+			"text": " outside of the abortion clinic. Police approached her multiple times. That's just she was praying,"
+		},
+		{
+			"timestamps": {
+				"from": "00:04:53,680",
+				"to": "00:05:01,520"
+			},
+			"offsets": {
+				"from": 293680,
+				"to": 301520
+			},
+			"text": " and she confirmed, \"Yes, I'm praying in my mind.\" That's not wild. If you don't believe in God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:01,520",
+				"to": "00:05:06,640"
+			},
+			"offsets": {
+				"from": 301520,
+				"to": 306640
+			},
+			"text": " what does it matter what somebody's thinking, right? But obviously, they're a little bit"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:06,640",
+				"to": "00:05:14,560"
+			},
+			"offsets": {
+				"from": 306640,
+				"to": 314560
+			},
+			"text": " intimidated by even just praying in your mind. So they arrested her, and they had to acquit her,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:14,560",
+				"to": "00:05:19,520"
+			},
+			"offsets": {
+				"from": 314560,
+				"to": 319520
+			},
+			"text": " but they continue to investigate her for her silent prayer near the clinics. And like,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:19,520",
+				"to": "00:05:24,240"
+			},
+			"offsets": {
+				"from": 319520,
+				"to": 324240
+			},
+			"text": " what, what? You know, it's the UK. They're crazy. That wouldn't happen here. Yeah. In Michigan,"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:24,240",
+				"to": "00:05:29,040"
+			},
+			"offsets": {
+				"from": 324240,
+				"to": 329040
+			},
+			"text": " Southfield, Michigan, Matthew Conley was arrested and jailed for kneeling in silent prayer"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:29,040",
+				"to": "00:05:33,680"
+			},
+			"offsets": {
+				"from": 329040,
+				"to": 333680
+			},
+			"text": " outside of an abortion center. He was charged under a local ordinance criminalizing annoyance"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:33,680",
+				"to": "00:05:40,560"
+			},
+			"offsets": {
+				"from": 333680,
+				"to": 340560
+			},
+			"text": " or just quiet, just quieting the area by kneeling in praying. So he petitions the US Supreme Court"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:40,560",
+				"to": "00:05:47,200"
+			},
+			"offsets": {
+				"from": 340560,
+				"to": 347200
+			},
+			"text": " to strike down the ordinance, arguing it violates free speech and do process rights. So praying"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:47,200",
+				"to": "00:05:52,960"
+			},
+			"offsets": {
+				"from": 347200,
+				"to": 352960
+			},
+			"text": " silently is illegal, and giving food to hungry people is illegal. The law sometimes punishes"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:52,960",
+				"to": "00:05:59,280"
+			},
+			"offsets": {
+				"from": 352960,
+				"to": 359280
+			},
+			"text": " people for doing something good and saying here with Peter and John, why are they arrested"
+		},
+		{
+			"timestamps": {
+				"from": "00:05:59,280",
+				"to": "00:06:08,640"
+			},
+			"offsets": {
+				"from": 359280,
+				"to": 368640
+			},
+			"text": " for healing in Jesus' name? Let's not be dishonest. It's really not the healing that the religious"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:08,640",
+				"to": "00:06:14,400"
+			},
+			"offsets": {
+				"from": 368640,
+				"to": 374400
+			},
+			"text": " leaders are upset about. It's the doctrine that they're upset about. What doctrine? Did you catch"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:14,400",
+				"to": "00:06:21,920"
+			},
+			"offsets": {
+				"from": 374400,
+				"to": 381920
+			},
+			"text": " it in verse two? Chapter four verse two, it says, \"Being greatly disturbed,\" not about the healing,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:21,920",
+				"to": "00:06:29,040"
+			},
+			"offsets": {
+				"from": 381920,
+				"to": 389040
+			},
+			"text": " what, what? That they taught the people and preached in Jesus the resurrection from the dead."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:29,040",
+				"to": "00:06:35,520"
+			},
+			"offsets": {
+				"from": 389040,
+				"to": 395520
+			},
+			"text": " In Jesus through Jesus, the resurrection from the dead. That's the part they want to stop."
+		},
+		{
+			"timestamps": {
+				"from": "00:06:35,520",
+				"to": "00:06:41,520"
+			},
+			"offsets": {
+				"from": 395520,
+				"to": 401520
+			},
+			"text": " And even today, that same message, you can be resurrected from the dead through faith in Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:41,520",
+				"to": "00:06:47,840"
+			},
+			"offsets": {
+				"from": 401520,
+				"to": 407840
+			},
+			"text": " that same message is illegal in many parts of the world. And I'll show you why. Verse number seven,"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:47,840",
+				"to": "00:06:55,600"
+			},
+			"offsets": {
+				"from": 407840,
+				"to": 415600
+			},
+			"text": " it says, \"And when they had set them in the midst, they asked, by what power, what name have you"
+		},
+		{
+			"timestamps": {
+				"from": "00:06:55,600",
+				"to": "00:07:04,080"
+			},
+			"offsets": {
+				"from": 415600,
+				"to": 424080
+			},
+			"text": " done this?\" And Peter answers in verse 10, he says, \"Let it be known to you and all the people"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:04,080",
+				"to": "00:07:09,040"
+			},
+			"offsets": {
+				"from": 424080,
+				"to": 429040
+			},
+			"text": " in Israel that by the name of Jesus Christ of Nazareth, who you crucified, who God raised them"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:09,040",
+				"to": "00:07:15,280"
+			},
+			"offsets": {
+				"from": 429040,
+				"to": 435280
+			},
+			"text": " the dead, by him this man stands here before you whole, this is the stone which become the"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:15,280",
+				"to": "00:07:20,320"
+			},
+			"offsets": {
+				"from": 435280,
+				"to": 440320
+			},
+			"text": " chief, the builder's rejected that has become the chief cornerstone. Nor is there salvation in any"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:20,320",
+				"to": "00:07:28,400"
+			},
+			"offsets": {
+				"from": 440320,
+				"to": 448400
+			},
+			"text": " other, for there is no other name under heaven given among men whereby we must be saved.\" And"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:28,400",
+				"to": "00:07:35,360"
+			},
+			"offsets": {
+				"from": 448400,
+				"to": 455360
+			},
+			"text": " verse 12 is a clear doctrinal statement of the gospel. We quote that verse all the time. However,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:35,360",
+				"to": "00:07:42,240"
+			},
+			"offsets": {
+				"from": 455360,
+				"to": 462240
+			},
+			"text": " if you want to make two-thirds of the human race upset at you, proclaim Acts 4 12. There's no"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:42,240",
+				"to": "00:07:51,440"
+			},
+			"offsets": {
+				"from": 462240,
+				"to": 471440
+			},
+			"text": " other name under heaven given among men whereby we must be saved. Of the works of religions,"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:51,440",
+				"to": "00:07:59,840"
+			},
+			"offsets": {
+				"from": 471440,
+				"to": 479840
+			},
+			"text": " we see that most do not agree with that statement. Starting with Judaism, because that's the"
+		},
+		{
+			"timestamps": {
+				"from": "00:07:59,840",
+				"to": "00:08:04,480"
+			},
+			"offsets": {
+				"from": 479840,
+				"to": 484480
+			},
+			"text": " crowd here that had arrested Peter and John for that, they reject, they still reject Jesus is the"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:04,480",
+				"to": "00:08:11,600"
+			},
+			"offsets": {
+				"from": 484480,
+				"to": 491600
+			},
+			"text": " Messiah, they do not teach salvation through him. But also Islam, refers Jesus as a prophet, but they"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:11,600",
+				"to": "00:08:20,960"
+			},
+			"offsets": {
+				"from": 491600,
+				"to": 500960
+			},
+			"text": " deny him as a Savior and salvation is through submission to Allah. Hinduism, they teach liberation"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:20,960",
+				"to": "00:08:28,720"
+			},
+			"offsets": {
+				"from": 500960,
+				"to": 508720
+			},
+			"text": " through karma and devotion to various deities, they're pantheon of gods that they worship,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:28,720",
+				"to": "00:08:35,200"
+			},
+			"offsets": {
+				"from": 508720,
+				"to": 515200
+			},
+			"text": " Buddhists focus on enlightenment through the eightfold path, not salvation through Christ, Sikhism,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:35,200",
+				"to": "00:08:41,360"
+			},
+			"offsets": {
+				"from": 515200,
+				"to": 521360
+			},
+			"text": " devotion to God is in righteous living, not salvation through Jesus, Baja faith, Jesus is one of"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:41,360",
+				"to": "00:08:46,800"
+			},
+			"offsets": {
+				"from": 521360,
+				"to": 526800
+			},
+			"text": " many divine messengers, not exclusively the way to salvation. And then you have like thousands of"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:46,800",
+				"to": "00:08:51,120"
+			},
+			"offsets": {
+				"from": 526800,
+				"to": 531120
+			},
+			"text": " indigenous pagan religions and they all have their own spiritual framework and none of that"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:51,120",
+				"to": "00:08:55,280"
+			},
+			"offsets": {
+				"from": 531120,
+				"to": 535280
+			},
+			"text": " centers around Jesus. And then of course we got the good old fashion, what we have in America,"
+		},
+		{
+			"timestamps": {
+				"from": "00:08:55,280",
+				"to": "00:09:02,560"
+			},
+			"offsets": {
+				"from": 535280,
+				"to": 542560
+			},
+			"text": " the secular humanism, which is rejects the concept of salvation altogether, it's just you know"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:02,560",
+				"to": "00:09:07,840"
+			},
+			"offsets": {
+				"from": 542560,
+				"to": 547840
+			},
+			"text": " you die and you're done, it's no big deal. So roughly 5.5 billion people believe in some other way"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:07,840",
+				"to": "00:09:13,200"
+			},
+			"offsets": {
+				"from": 547840,
+				"to": 553200
+			},
+			"text": " to find peace with their concept of God, and even among the supposed 2.4 billion Christians in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:13,200",
+				"to": "00:09:22,640"
+			},
+			"offsets": {
+				"from": 553200,
+				"to": 562640
+			},
+			"text": " world, many do not agree with Peter's statement. Survey done, life way, research in 2025, 65% of US"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:22,640",
+				"to": "00:09:29,840"
+			},
+			"offsets": {
+				"from": 562640,
+				"to": 569840
+			},
+			"text": " adults agree that God accepts the worship of all religions, including Christianity and Judaism"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:29,840",
+				"to": "00:09:35,200"
+			},
+			"offsets": {
+				"from": 569840,
+				"to": 575200
+			},
+			"text": " and Islam, and this indicates that the majority of Christians in America believe there are multiple"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:35,200",
+				"to": "00:09:44,560"
+			},
+			"offsets": {
+				"from": 575200,
+				"to": 584560
+			},
+			"text": " paths to God, not only through Jesus. In 2023, 2024, Pew Research found that half of Christians"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:44,560",
+				"to": "00:09:53,360"
+			},
+			"offsets": {
+				"from": 584560,
+				"to": 593360
+			},
+			"text": " in the US say many religions can lead to eternal life. Now, evangelicals, which we would"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:53,360",
+				"to": "00:09:59,520"
+			},
+			"offsets": {
+				"from": 593360,
+				"to": 599520
+			},
+			"text": " fall in that category, are more likely to affirm it as only through Jesus, while mainline"
+		},
+		{
+			"timestamps": {
+				"from": "00:09:59,520",
+				"to": "00:10:06,880"
+			},
+			"offsets": {
+				"from": 599520,
+				"to": 606880
+			},
+			"text": " Protestant religions, denominations, and they are more likely to accept multiple paths."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:06,880",
+				"to": "00:10:13,760"
+			},
+			"offsets": {
+				"from": 606880,
+				"to": 613760
+			},
+			"text": " There's an estimated 700 million evangelicals in the world of a population, the world population"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:13,760",
+				"to": "00:10:23,280"
+			},
+			"offsets": {
+				"from": 613760,
+				"to": 623280
+			},
+			"text": " is 8.26 billion people. So less than 10%, roughly 8.5% of the world population believes"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:23,280",
+				"to": "00:10:31,920"
+			},
+			"offsets": {
+				"from": 623280,
+				"to": 631920
+			},
+			"text": " Acts 4.12. Even millions of people who claim to believe in Jesus do not affirm Peter's statement."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:31,920",
+				"to": "00:10:43,200"
+			},
+			"offsets": {
+				"from": 631920,
+				"to": 643200
+			},
+			"text": " Why? Because it's too narrow. It means if you don't trust in Jesus, you're not, you're not"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:43,200",
+				"to": "00:10:46,640"
+			},
+			"offsets": {
+				"from": 643200,
+				"to": 646640
+			},
+			"text": " saved. You're not going to be resurrected from the dead, and you're not going to go to heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:46,640",
+				"to": "00:10:51,760"
+			},
+			"offsets": {
+				"from": 646640,
+				"to": 651760
+			},
+			"text": " Basically, means all these other ways are wrong, and there's only one way. Yeah, but that's Peter's"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:51,760",
+				"to": "00:10:55,840"
+			},
+			"offsets": {
+				"from": 651760,
+				"to": 655840
+			},
+			"text": " statement and Peter's opinion on the matter, and I'm sure he just misunderstood Jesus because"
+		},
+		{
+			"timestamps": {
+				"from": "00:10:55,840",
+				"to": "00:10:59,280"
+			},
+			"offsets": {
+				"from": 655840,
+				"to": 659280
+			},
+			"text": " after all the disciples, they didn't always get Jesus in what he was trying to say."
+		},
+		{
+			"timestamps": {
+				"from": "00:10:59,280",
+				"to": "00:11:03,920"
+			},
+			"offsets": {
+				"from": 659280,
+				"to": 663920
+			},
+			"text": " So let's look to what Jesus said in John chapter 14. He says, \"Let not your heart be trouble,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:03,920",
+				"to": "00:11:07,280"
+			},
+			"offsets": {
+				"from": 663920,
+				"to": 667280
+			},
+			"text": " believe in God, believe in me. In my father's house, there are many mansions. If we're not"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:07,280",
+				"to": "00:11:11,120"
+			},
+			"offsets": {
+				"from": 667280,
+				"to": 671120
+			},
+			"text": " so, I would have told you, I go to prepare a place for you, and if I go to prepare a place for you,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:11,120",
+				"to": "00:11:16,320"
+			},
+			"offsets": {
+				"from": 671120,
+				"to": 676320
+			},
+			"text": " I will come again, receive you to myself, that where I am, there you may be also.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:11:16,320",
+				"to": "00:11:22,320"
+			},
+			"offsets": {
+				"from": 676320,
+				"to": 682320
+			},
+			"text": " And where I go, you know, in the way you know. Thomas said, \"Lord, we do not know where you're going."
+		},
+		{
+			"timestamps": {
+				"from": "00:11:22,320",
+				"to": "00:11:32,480"
+			},
+			"offsets": {
+				"from": 682320,
+				"to": 692480
+			},
+			"text": " How can we know the way?\" And Jesus said, \"I am the way, the truth, and the life.\" And what's that last"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:32,480",
+				"to": "00:11:39,280"
+			},
+			"offsets": {
+				"from": 692480,
+				"to": 699280
+			},
+			"text": " statement? No one comes to the Father except through me. So specifically on the subject of going"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:39,280",
+				"to": "00:11:45,920"
+			},
+			"offsets": {
+				"from": 699280,
+				"to": 705920
+			},
+			"text": " to heaven, what is the way to God the Father? Jesus said, \"I am the way, not a way,"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:45,920",
+				"to": "00:11:53,200"
+			},
+			"offsets": {
+				"from": 705920,
+				"to": 713200
+			},
+			"text": " definite article, the way.\" And then he says, \"Clareifies, no one comes to the Father, but through me.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:11:53,200",
+				"to": "00:11:59,200"
+			},
+			"offsets": {
+				"from": 713200,
+				"to": 719200
+			},
+			"text": " He also said in Matthew chapter 7 verse 13, \"Enter through the narrow gate for"
+		},
+		{
+			"timestamps": {
+				"from": "00:11:59,200",
+				"to": "00:12:05,440"
+			},
+			"offsets": {
+				"from": 719200,
+				"to": 725440
+			},
+			"text": " why does the gate and broad is the road that leads to destruction, not all, well it does lead"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:05,440",
+				"to": "00:12:11,680"
+			},
+			"offsets": {
+				"from": 725440,
+				"to": 731680
+			},
+			"text": " all the one place, but it's all destruction.\" And many go through it. But small is the gate."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:11,680",
+				"to": "00:12:18,080"
+			},
+			"offsets": {
+				"from": 731680,
+				"to": 738080
+			},
+			"text": " Narrow is the road that leads to life and few that find it. So it's not just Peter's opinion,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:18,080",
+				"to": "00:12:23,600"
+			},
+			"offsets": {
+				"from": 738080,
+				"to": 743600
+			},
+			"text": " it's not just our church's opinion that there's only one way to heaven, it's Jesus' message."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:23,600",
+				"to": "00:12:30,320"
+			},
+			"offsets": {
+				"from": 743600,
+				"to": 750320
+			},
+			"text": " People think Peter's message is to narrow Jesus' affirms. Yes, it is a narrow way. But wait a minute,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:30,320",
+				"to": "00:12:35,600"
+			},
+			"offsets": {
+				"from": 750320,
+				"to": 755600
+			},
+			"text": " aren't most religions narrow. I mean Islam doesn't think everyone else has got to write either,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:35,600",
+				"to": "00:12:40,880"
+			},
+			"offsets": {
+				"from": 755600,
+				"to": 760880
+			},
+			"text": " right? Muslim countries are notorious for banning other religions. Atheistic countries,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:40,880",
+				"to": "00:12:46,640"
+			},
+			"offsets": {
+				"from": 760880,
+				"to": 766640
+			},
+			"text": " communist countries, are historically strict on not allowing religious groups to operate"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:46,640",
+				"to": "00:12:52,160"
+			},
+			"offsets": {
+				"from": 766640,
+				"to": 772160
+			},
+			"text": " in their country. Bibles were banned all in Eastern Europe and all in the Soviet Union for 50 years."
+		},
+		{
+			"timestamps": {
+				"from": "00:12:52,160",
+				"to": "00:12:57,600"
+			},
+			"offsets": {
+				"from": 772160,
+				"to": 777600
+			},
+			"text": " And even today, in North Korea, Christianity is completely forbidden. If you own a Bible,"
+		},
+		{
+			"timestamps": {
+				"from": "00:12:57,600",
+				"to": "00:13:02,560"
+			},
+			"offsets": {
+				"from": 777600,
+				"to": 782560
+			},
+			"text": " you gather in Jesus' name, they'll execute you for that. Afghanistan, under Taliban rule,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:02,560",
+				"to": "00:13:10,240"
+			},
+			"offsets": {
+				"from": 782560,
+				"to": 790240
+			},
+			"text": " conversion from Islam, is punishable by death. Somalia, Christianity is viewed as foreign and it's"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:10,240",
+				"to": "00:13:16,160"
+			},
+			"offsets": {
+				"from": 790240,
+				"to": 796160
+			},
+			"text": " illegal and dangerous Saudi Arabia. There's no public Christian worship permitted, no gathering"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:16,160",
+				"to": "00:13:23,760"
+			},
+			"offsets": {
+				"from": 796160,
+				"to": 803760
+			},
+			"text": " in Jesus' name. Iran, conversion from Islam is apostasy and they raid house churches and speaking"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:23,760",
+				"to": "00:13:29,040"
+			},
+			"offsets": {
+				"from": 803760,
+				"to": 809040
+			},
+			"text": " about Jesus and public is forbidden. Libya, Yemen's like that. And then other countries are,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:29,040",
+				"to": "00:13:33,840"
+			},
+			"offsets": {
+				"from": 809040,
+				"to": 813840
+			},
+			"text": " they might allow it but they're very restricted. They're heavily restricted and they persecute"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:33,840",
+				"to": "00:13:39,520"
+			},
+			"offsets": {
+				"from": 813840,
+				"to": 819520
+			},
+			"text": " churches like China. Christianity is legal but it's tightly controlled. You have to be an authorized"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:39,520",
+				"to": "00:13:45,040"
+			},
+			"offsets": {
+				"from": 819520,
+				"to": 825040
+			},
+			"text": " state church and you have, which means you've got to teach, you know, the state communist religion."
+		},
+		{
+			"timestamps": {
+				"from": "00:13:45,040",
+				"to": "00:13:51,920"
+			},
+			"offsets": {
+				"from": 825040,
+				"to": 831920
+			},
+			"text": " Sudan, Algeria, they have restrictions on churches and evangelism. Pakistan and India,"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:51,920",
+				"to": "00:13:57,760"
+			},
+			"offsets": {
+				"from": 831920,
+				"to": 837760
+			},
+			"text": " you know how many people live in that? And India, I mean, that is a jam-packed population"
+		},
+		{
+			"timestamps": {
+				"from": "00:13:57,760",
+				"to": "00:14:05,600"
+			},
+			"offsets": {
+				"from": 837760,
+				"to": 845600
+			},
+			"text": " and anti-conversion laws, blasphemy laws, make public proselytization and evangelism very dangerous,"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:05,600",
+				"to": "00:14:11,040"
+			},
+			"offsets": {
+				"from": 845600,
+				"to": 851040
+			},
+			"text": " very dangerous over there. And likewise in Syria and Iraq, Christian's face violence."
+		},
+		{
+			"timestamps": {
+				"from": "00:14:11,040",
+				"to": "00:14:21,280"
+			},
+			"offsets": {
+				"from": 851040,
+				"to": 861280
+			},
+			"text": " So it's very common for Jesus to be illegal. Judaism likewise is very narrow. They don't accept"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:21,280",
+				"to": "00:14:28,560"
+			},
+			"offsets": {
+				"from": 861280,
+				"to": 868560
+			},
+			"text": " other face being legitimate ways to God. No, they're very exclusive. So Christianity is not the only"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:28,560",
+				"to": "00:14:34,640"
+			},
+			"offsets": {
+				"from": 868560,
+				"to": 874640
+			},
+			"text": " faith that has an exclusive message. But the religious leaders in Jerusalem have extra motivation"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:34,640",
+				"to": "00:14:39,760"
+			},
+			"offsets": {
+				"from": 874640,
+				"to": 879760
+			},
+			"text": " to stop the disciples' message. Let me explain what their extra motivation is. Jesus wasn't"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:39,760",
+				"to": "00:14:46,320"
+			},
+			"offsets": {
+				"from": 879760,
+				"to": 886320
+			},
+			"text": " from a different religion. He grew up learning all the customs. He followed all the teachings of"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:46,320",
+				"to": "00:14:51,760"
+			},
+			"offsets": {
+				"from": 886320,
+				"to": 891760
+			},
+			"text": " the law in the prophets. Matter of fact, he knew them better. He taught them more effectively than"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:51,760",
+				"to": "00:14:56,880"
+			},
+			"offsets": {
+				"from": 891760,
+				"to": 896880
+			},
+			"text": " the religious leaders. The ruling class did. Jesus says, \"Don't think that I have come to destroy"
+		},
+		{
+			"timestamps": {
+				"from": "00:14:56,880",
+				"to": "00:15:03,120"
+			},
+			"offsets": {
+				"from": 896880,
+				"to": 903120
+			},
+			"text": " the law in the prophets. I didn't come to destroy it. I've come to fulfill it.\" Jesus fulfilled,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:03,120",
+				"to": "00:15:07,840"
+			},
+			"offsets": {
+				"from": 903120,
+				"to": 907840
+			},
+			"text": " meaning that all the law in the prophets, what they were instructing and what they were for telling,"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:08,480",
+				"to": "00:15:16,320"
+			},
+			"offsets": {
+				"from": 908480,
+				"to": 916320
+			},
+			"text": " Jesus completed it all. The suffering Messiah who would be the sacrifice to pay for the sins of"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:16,320",
+				"to": "00:15:23,200"
+			},
+			"offsets": {
+				"from": 916320,
+				"to": 923200
+			},
+			"text": " Adam's race. The sins of all would be imputed upon him and he would die in their stead so that"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:23,200",
+				"to": "00:15:29,200"
+			},
+			"offsets": {
+				"from": 923200,
+				"to": 929200
+			},
+			"text": " the law of God could be fulfilled. The justice of God could be served. The wrath of God could be"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:29,200",
+				"to": "00:15:36,560"
+			},
+			"offsets": {
+				"from": 929200,
+				"to": 936560
+			},
+			"text": " satisfied. Which would result in the peace of God being available to everyone. The blessings of God"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:36,560",
+				"to": "00:15:44,480"
+			},
+			"offsets": {
+				"from": 936560,
+				"to": 944480
+			},
+			"text": " for the masses, the love of God, freely offered to all. Yes, the way to God is narrow in the sense"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:44,480",
+				"to": "00:15:55,120"
+			},
+			"offsets": {
+				"from": 944480,
+				"to": 955120
+			},
+			"text": " that only if you take it, but the way is not hidden or closed or inaccessible. Judaism was very much"
+		},
+		{
+			"timestamps": {
+				"from": "00:15:55,120",
+				"to": "00:16:02,800"
+			},
+			"offsets": {
+				"from": 955120,
+				"to": 962800
+			},
+			"text": " like going to the county fair. You've got to pay to get in and once you're in, you walk around"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:02,800",
+				"to": "00:16:06,080"
+			},
+			"offsets": {
+				"from": 962800,
+				"to": 966080
+			},
+			"text": " and you look at everything that's going on there and you're like, \"Oh, that's some fun rides.\" Maybe"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:06,080",
+				"to": "00:16:10,560"
+			},
+			"offsets": {
+				"from": 966080,
+				"to": 970560
+			},
+			"text": " we should do that. Oh, there's some really cool prizes. Wouldn't it be great to win one of those"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:10,560",
+				"to": "00:16:15,120"
+			},
+			"offsets": {
+				"from": 970560,
+				"to": 975120
+			},
+			"text": " big stuffed animals that's the size of my whole room? No, they collect us. They're horrible."
+		},
+		{
+			"timestamps": {
+				"from": "00:16:15,120",
+				"to": "00:16:21,440"
+			},
+			"offsets": {
+				"from": 975120,
+				"to": 981440
+			},
+			"text": " Oh, smell the fried food, right? And that'd be good. Oh, that smells so good. Let's get some of"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:21,440",
+				"to": "00:16:26,800"
+			},
+			"offsets": {
+				"from": 981440,
+				"to": 986800
+			},
+			"text": " that. You can see it and you can smell it and you can hear it all, but you can't access any of it"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:26,800",
+				"to": "00:16:34,880"
+			},
+			"offsets": {
+				"from": 986800,
+				"to": 994880
+			},
+			"text": " unless you buy some tickets or put the money down. The entrance fee lets you get to where the action"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:34,880",
+				"to": "00:16:41,520"
+			},
+			"offsets": {
+				"from": 994880,
+				"to": 1001520
+			},
+			"text": " is, but you don't get any of it unless you start shelling out some more dollars. And that was"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:41,520",
+				"to": "00:16:49,040"
+			},
+			"offsets": {
+				"from": 1001520,
+				"to": 1009040
+			},
+			"text": " the temple in Peter's day, all about charging the people money for everything, but that's not what"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:49,040",
+				"to": "00:16:56,800"
+			},
+			"offsets": {
+				"from": 1009040,
+				"to": 1016800
+			},
+			"text": " Jesus is offering. Jesus is offering to pay the fair for the fair so you can get in and once you"
+		},
+		{
+			"timestamps": {
+				"from": "00:16:56,800",
+				"to": "00:17:06,960"
+			},
+			"offsets": {
+				"from": 1016800,
+				"to": 1026960
+			},
+			"text": " get in, everything God has his offer to you for free. The wages of sin is death, but the gift of God"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:06,960",
+				"to": "00:17:16,160"
+			},
+			"offsets": {
+				"from": 1026960,
+				"to": 1036160
+			},
+			"text": " is eternal life through Jesus Christ, our Lord. Peace with God, promise blessings, eternal inheritance,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:16,160",
+				"to": "00:17:22,160"
+			},
+			"offsets": {
+				"from": 1036160,
+				"to": 1042160
+			},
+			"text": " all through simply repenting of sins in Jesus' name. And this is why the religious leaders of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:22,160",
+				"to": "00:17:27,360"
+			},
+			"offsets": {
+				"from": 1042160,
+				"to": 1047360
+			},
+			"text": " nation are so very concerned about shutting this message down. Let's look at these guys for a"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:27,360",
+				"to": "00:17:33,920"
+			},
+			"offsets": {
+				"from": 1047360,
+				"to": 1053920
+			},
+			"text": " minute, verse number five, and the rulers, the elders, the scribes, Anis, the high priest,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:33,920",
+				"to": "00:17:39,200"
+			},
+			"offsets": {
+				"from": 1053920,
+				"to": 1059200
+			},
+			"text": " Kaif is John, Alexander, and many as we're of the family of the high priest. Let me give you a"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:39,200",
+				"to": "00:17:48,160"
+			},
+			"offsets": {
+				"from": 1059200,
+				"to": 1068160
+			},
+			"text": " bit of intel on these guys. So Anis, Son-in-law, Kaifis, and then Anis's sons, Jonathan, Theophilus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:48,160",
+				"to": "00:17:57,360"
+			},
+			"offsets": {
+				"from": 1068160,
+				"to": 1077360
+			},
+			"text": " Matthias, and Anis II, all of those guys served as high priests. So from 6AD to about 62 AD,"
+		},
+		{
+			"timestamps": {
+				"from": "00:17:57,360",
+				"to": "00:18:03,440"
+			},
+			"offsets": {
+				"from": 1077360,
+				"to": 1083440
+			},
+			"text": " 60 years, this one family held the most powerful position in the nation of Israel. Now that could"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:03,440",
+				"to": "00:18:08,880"
+			},
+			"offsets": {
+				"from": 1083440,
+				"to": 1088880
+			},
+			"text": " be a good thing, or that could be a bad thing, depending on the integrity of the leadership. When"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:08,880",
+				"to": "00:18:13,040"
+			},
+			"offsets": {
+				"from": 1088880,
+				"to": 1093040
+			},
+			"text": " you have good people in positions of leadership for an extended period of time, you could accomplish"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:13,040",
+				"to": "00:18:19,920"
+			},
+			"offsets": {
+				"from": 1093040,
+				"to": 1099920
+			},
+			"text": " a lot of good, nothing's built in a day. It takes strategic planning and patient execution"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:19,920",
+				"to": "00:18:28,560"
+			},
+			"offsets": {
+				"from": 1099920,
+				"to": 1108560
+			},
+			"text": " to grow and develop a quality, anything. Whatever, if it's quality, it's going to take time and"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:28,560",
+				"to": "00:18:33,760"
+			},
+			"offsets": {
+				"from": 1108560,
+				"to": 1113760
+			},
+			"text": " effort to get there. I always internally roll my eyes, I don't do it externally, but I always"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:33,760",
+				"to": "00:18:38,480"
+			},
+			"offsets": {
+				"from": 1113760,
+				"to": 1118480
+			},
+			"text": " internally roll my eyes when people think this new leader is going to commit and fix all the problems,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:38,480",
+				"to": "00:18:44,000"
+			},
+			"offsets": {
+				"from": 1118480,
+				"to": 1124000
+			},
+			"text": " address all the issues, clean up all the messes in the first year, in the first month. Whether"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:44,000",
+				"to": "00:18:48,320"
+			},
+			"offsets": {
+				"from": 1124000,
+				"to": 1128320
+			},
+			"text": " it's the new president, or the new base commander, or a CEO, or a new principal of a school,"
+		},
+		{
+			"timestamps": {
+				"from": "00:18:48,320",
+				"to": "00:18:55,680"
+			},
+			"offsets": {
+				"from": 1128320,
+				"to": 1135680
+			},
+			"text": " or a coach of a team, or a pastor, whatever the position, nobody can fix all the problems immediately."
+		},
+		{
+			"timestamps": {
+				"from": "00:18:55,680",
+				"to": "00:19:02,640"
+			},
+			"offsets": {
+				"from": 1135680,
+				"to": 1142640
+			},
+			"text": " It's not possible because the issues are often not simply one thing. They are systemic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:02,640",
+				"to": "00:19:10,880"
+			},
+			"offsets": {
+				"from": 1142640,
+				"to": 1150880
+			},
+			"text": " complex, the result of bad practices, or a cultural mindset, or even false beliefs. I'm 25 pounds"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:10,880",
+				"to": "00:19:16,480"
+			},
+			"offsets": {
+				"from": 1150880,
+				"to": 1156480
+			},
+			"text": " overweight. Okay, so just lose some weight. That's simple. Oh, really? It's just that simple."
+		},
+		{
+			"timestamps": {
+				"from": "00:19:16,480",
+				"to": "00:19:23,600"
+			},
+			"offsets": {
+				"from": 1156480,
+				"to": 1163600
+			},
+			"text": " No, it is not. It is not that simple. It's going to require me changing my entire schedule,"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:23,600",
+				"to": "00:19:30,400"
+			},
+			"offsets": {
+				"from": 1163600,
+				"to": 1170400
+			},
+			"text": " reorganizing everything that I'm doing to provide time for healthy meal prep and an exercise"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:30,400",
+				"to": "00:19:35,040"
+			},
+			"offsets": {
+				"from": 1170400,
+				"to": 1175040
+			},
+			"text": " routine, and that exercise routine and that discipline is going to take months and months of"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:35,040",
+				"to": "00:19:39,840"
+			},
+			"offsets": {
+				"from": 1175040,
+				"to": 1179840
+			},
+			"text": " commitment, but it's Thanksgiving week, and I have to clean up all the pumpkin pie in the pumpkin"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:39,840",
+				"to": "00:19:44,000"
+			},
+			"offsets": {
+				"from": 1179840,
+				"to": 1184000
+			},
+			"text": " roll, and Christmas is just around the corner, and I was going to make those chocolate peanut"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:44,000",
+				"to": "00:19:48,640"
+			},
+			"offsets": {
+				"from": 1184000,
+				"to": 1188640
+			},
+			"text": " butter balls, right? And then New Year's is after that. So I am going to get started on this whole"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:48,640",
+				"to": "00:19:59,200"
+			},
+			"offsets": {
+				"from": 1188640,
+				"to": 1199200
+			},
+			"text": " 25 pound weight loss thing for like January. Thank you, brother. I'm in debt. We'll just make"
+		},
+		{
+			"timestamps": {
+				"from": "00:19:59,200",
+				"to": "00:20:05,440"
+			},
+			"offsets": {
+				"from": 1199200,
+				"to": 1205440
+			},
+			"text": " a budget and stick to it, right? Christmas is coming. Just, I didn't have any money for gifts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:05,440",
+				"to": "00:20:10,640"
+			},
+			"offsets": {
+				"from": 1205440,
+				"to": 1210640
+			},
+			"text": " so, you know, just not going to buy gifts. I will just put it on the credit card and hope the"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:10,640",
+				"to": "00:20:18,240"
+			},
+			"offsets": {
+				"from": 1210640,
+				"to": 1218240
+			},
+			"text": " tariff rebate will kick in sometime next year without a plan. Nothing gets fixed quickly in your"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:18,240",
+				"to": "00:20:24,320"
+			},
+			"offsets": {
+				"from": 1218240,
+				"to": 1224320
+			},
+			"text": " own life. What about a country? What about a religious system that's been operating a certain"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:24,320",
+				"to": "00:20:29,120"
+			},
+			"offsets": {
+				"from": 1224320,
+				"to": 1229120
+			},
+			"text": " way for the last 1,500 years? You're not going to reform it in one year. There's no quick fixes,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:29,120",
+				"to": "00:20:34,320"
+			},
+			"offsets": {
+				"from": 1229120,
+				"to": 1234320
+			},
+			"text": " but if you have some good, solid leadership in place for an extended period of time,"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:34,320",
+				"to": "00:20:39,120"
+			},
+			"offsets": {
+				"from": 1234320,
+				"to": 1239120
+			},
+			"text": " you can slowly and progressively make changes and improve things over the course of time."
+		},
+		{
+			"timestamps": {
+				"from": "00:20:39,120",
+				"to": "00:20:46,320"
+			},
+			"offsets": {
+				"from": 1239120,
+				"to": 1246320
+			},
+			"text": " Mr. Nebula has created a culture of notching things up around here at Faith Bible Church. He's"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:46,320",
+				"to": "00:20:51,360"
+			},
+			"offsets": {
+				"from": 1246320,
+				"to": 1251360
+			},
+			"text": " always encouraging the leadership to keep evaluating things and figure out what do we need to make"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:51,360",
+				"to": "00:20:58,880"
+			},
+			"offsets": {
+				"from": 1251360,
+				"to": 1258880
+			},
+			"text": " improvements on. How do we notch things up? Well, we had some exterior doors that were over 30"
+		},
+		{
+			"timestamps": {
+				"from": "00:20:58,880",
+				"to": "00:21:03,760"
+			},
+			"offsets": {
+				"from": 1258880,
+				"to": 1263760
+			},
+			"text": " years old and they were sticky and sticking and sticky too because they're in the nursery,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:03,760",
+				"to": "00:21:09,840"
+			},
+			"offsets": {
+				"from": 1263760,
+				"to": 1269840
+			},
+			"text": " but they were also sticking and they were rusty and they were not safe. And so this year,"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:09,840",
+				"to": "00:21:15,920"
+			},
+			"offsets": {
+				"from": 1269840,
+				"to": 1275920
+			},
+			"text": " we got some new exterior doors around the building who noticed the new signage. Anybody notice?"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:15,920",
+				"to": "00:21:19,760"
+			},
+			"offsets": {
+				"from": 1275920,
+				"to": 1279760
+			},
+			"text": " I mean, notice the new signage, right? You know, you know, we all kind of knew where the fellowship"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:19,760",
+				"to": "00:21:26,080"
+			},
+			"offsets": {
+				"from": 1279760,
+				"to": 1286080
+			},
+			"text": " hall was in the kids' church and the bathrooms, right? But the signs help notch things up so"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:26,080",
+				"to": "00:21:31,520"
+			},
+			"offsets": {
+				"from": 1286080,
+				"to": 1291520
+			},
+			"text": " that new people can have a better visiting experience. So we're always looking around for ways"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:31,520",
+				"to": "00:21:37,760"
+			},
+			"offsets": {
+				"from": 1291520,
+				"to": 1297760
+			},
+			"text": " to improve Pastor Mark and Larry have brought a whole new fresh set of eyes to help us see the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:37,760",
+				"to": "00:21:43,840"
+			},
+			"offsets": {
+				"from": 1297760,
+				"to": 1303840
+			},
+			"text": " things that we need to improve. But these things take time. Do you realize that we've been in our"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:44,560",
+				"to": "00:21:50,640"
+			},
+			"offsets": {
+				"from": 1304560,
+				"to": 1310640
+			},
+			"text": " new building for 10 years now? Right? It's not new anymore. So we have to look at the"
+		},
+		{
+			"timestamps": {
+				"from": "00:21:50,640",
+				"to": "00:21:57,760"
+			},
+			"offsets": {
+				"from": 1310640,
+				"to": 1317760
+			},
+			"text": " all the things that we need to improve. That's just a hint. I'm dropping or something for 2026."
+		},
+		{
+			"timestamps": {
+				"from": "00:21:57,760",
+				"to": "00:22:03,360"
+			},
+			"offsets": {
+				"from": 1317760,
+				"to": 1323360
+			},
+			"text": " That's for Pastor Mark's benefit. With consistent established leadership, we consistently"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:03,360",
+				"to": "00:22:08,160"
+			},
+			"offsets": {
+				"from": 1323360,
+				"to": 1328160
+			},
+			"text": " and progressively improving. Now the reverse is also true. With bad leadership, corrupt leadership,"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:08,160",
+				"to": "00:22:13,920"
+			},
+			"offsets": {
+				"from": 1328160,
+				"to": 1333920
+			},
+			"text": " they can progressively make things worse, progressively spread their corruption into all areas."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:13,920",
+				"to": "00:22:20,160"
+			},
+			"offsets": {
+				"from": 1333920,
+				"to": 1340160
+			},
+			"text": " So Anas's family has had 60 years to grow their influence over the nation to entrench their"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:20,160",
+				"to": "00:22:24,960"
+			},
+			"offsets": {
+				"from": 1340160,
+				"to": 1344960
+			},
+			"text": " their people into the positions of power to run things in a manner that best suits them."
+		},
+		{
+			"timestamps": {
+				"from": "00:22:24,960",
+				"to": "00:22:31,680"
+			},
+			"offsets": {
+				"from": 1344960,
+				"to": 1351680
+			},
+			"text": " That best pushes their agenda, keeping them in power and profiting off the system. Anas was"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:31,680",
+				"to": "00:22:39,760"
+			},
+			"offsets": {
+				"from": 1351680,
+				"to": 1359760
+			},
+			"text": " appointed by a Roman governor. So yeah, they were a Levite family, but it's very much a political"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:39,760",
+				"to": "00:22:45,520"
+			},
+			"offsets": {
+				"from": 1359760,
+				"to": 1365520
+			},
+			"text": " appointment. And with the temple system, there were ways for them to enrich themselves. They can"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:45,520",
+				"to": "00:22:51,680"
+			},
+			"offsets": {
+				"from": 1365520,
+				"to": 1371680
+			},
+			"text": " levy fees. They can create partnerships with businesses who will give them kickbacks to operate"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:51,680",
+				"to": "00:22:58,400"
+			},
+			"offsets": {
+				"from": 1371680,
+				"to": 1378400
+			},
+			"text": " exclusively in the temple courtyard. And there is nothing the Israelites can do about it because the"
+		},
+		{
+			"timestamps": {
+				"from": "00:22:58,400",
+				"to": "00:23:06,320"
+			},
+			"offsets": {
+				"from": 1378400,
+				"to": 1386320
+			},
+			"text": " high priest, they got the monopoly on the religious system. And once the Sanhedra ruled on something,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:06,320",
+				"to": "00:23:11,120"
+			},
+			"offsets": {
+				"from": 1386320,
+				"to": 1391120
+			},
+			"text": " it's the law. It's considered the will of God. And everyone has to do as they are told,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:11,120",
+				"to": "00:23:15,360"
+			},
+			"offsets": {
+				"from": 1391120,
+				"to": 1395360
+			},
+			"text": " or else they're not going to be allowed to worship God. They're going to be guilty of breaking the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:15,360",
+				"to": "00:23:19,920"
+			},
+			"offsets": {
+				"from": 1395360,
+				"to": 1399920
+			},
+			"text": " will of God. And they're going to be doomed to suffer the wrath of God. And the rest of the"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:19,920",
+				"to": "00:23:24,640"
+			},
+			"offsets": {
+				"from": 1399920,
+				"to": 1404640
+			},
+			"text": " community is going to shun that person because they want to avoid bringing any curses down upon"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:24,640",
+				"to": "00:23:31,760"
+			},
+			"offsets": {
+				"from": 1404640,
+				"to": 1411760
+			},
+			"text": " themselves as well. This is a system that could stone you. They could turn you over to Rome"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:31,760",
+				"to": "00:23:37,600"
+			},
+			"offsets": {
+				"from": 1411760,
+				"to": 1417600
+			},
+			"text": " to execute you. In the Jewish mind, worst of all, being away from the temple and not being able to"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:37,600",
+				"to": "00:23:45,600"
+			},
+			"offsets": {
+				"from": 1417600,
+				"to": 1425600
+			},
+			"text": " do the sacrifices would prevent you from entering the eternal promise rest, getting into heaven."
+		},
+		{
+			"timestamps": {
+				"from": "00:23:45,600",
+				"to": "00:23:55,280"
+			},
+			"offsets": {
+				"from": 1425600,
+				"to": 1435280
+			},
+			"text": " So Anis, his family, they got all the power. So everyone assumes until Jesus comes along,"
+		},
+		{
+			"timestamps": {
+				"from": "00:23:55,920",
+				"to": "00:24:02,560"
+			},
+			"offsets": {
+				"from": 1435920,
+				"to": 1442560
+			},
+			"text": " contradicts them, rebukes them, condemns them, woe to you, scribes, and Pharisees, thieves,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:02,560",
+				"to": "00:24:11,120"
+			},
+			"offsets": {
+				"from": 1442560,
+				"to": 1451120
+			},
+			"text": " den of vipers, woe to you. And he stands up to power. And then he does miracles like Moses,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:11,120",
+				"to": "00:24:16,160"
+			},
+			"offsets": {
+				"from": 1451120,
+				"to": 1456160
+			},
+			"text": " like Elijah, like the prophets of old, proving that he has the power of God. And now the people"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:16,160",
+				"to": "00:24:20,880"
+			},
+			"offsets": {
+				"from": 1456160,
+				"to": 1460880
+			},
+			"text": " are wondering who really has the right interpretation of the laws of God, the Sanhedrin who are"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:20,880",
+				"to": "00:24:26,240"
+			},
+			"offsets": {
+				"from": 1460880,
+				"to": 1466240
+			},
+			"text": " ripping us off, or Jesus who's in his followers, who are giving us bread and healing our diseases"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:26,240",
+				"to": "00:24:33,120"
+			},
+			"offsets": {
+				"from": 1466240,
+				"to": 1473120
+			},
+			"text": " and casting out demons and raising the dead, who really has the right way to God. Is it through"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:33,120",
+				"to": "00:24:38,160"
+			},
+			"offsets": {
+				"from": 1473120,
+				"to": 1478160
+			},
+			"text": " buying the temple endorsed lambs at extortion prices and paying all these ties to the temple,"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:38,160",
+				"to": "00:24:43,360"
+			},
+			"offsets": {
+				"from": 1478160,
+				"to": 1483360
+			},
+			"text": " or is it through faith in Jesus who was called by the prophet John the Baptist, behold the"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:43,360",
+				"to": "00:24:49,920"
+			},
+			"offsets": {
+				"from": 1483360,
+				"to": 1489920
+			},
+			"text": " Lamb of God who takes away the sins of the world. Is Jesus the Messiah? Well, it is in his name"
+		},
+		{
+			"timestamps": {
+				"from": "00:24:49,920",
+				"to": "00:24:56,640"
+			},
+			"offsets": {
+				"from": 1489920,
+				"to": 1496640
+			},
+			"text": " that the disciples are healing people, just like he did, the one who rose from the dead."
+		},
+		{
+			"timestamps": {
+				"from": "00:24:56,640",
+				"to": "00:25:01,200"
+			},
+			"offsets": {
+				"from": 1496640,
+				"to": 1501200
+			},
+			"text": " Does he have the power to resurrect us? Does he have the keys to the kingdom of God?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:01,200",
+				"to": "00:25:08,800"
+			},
+			"offsets": {
+				"from": 1501200,
+				"to": 1508800
+			},
+			"text": " What do you think? And the high priest's position gave Anis in the Sanhedrin power over the nation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:08,800",
+				"to": "00:25:14,800"
+			},
+			"offsets": {
+				"from": 1508800,
+				"to": 1514800
+			},
+			"text": " but they don't like having their power threatens. And now these disciples are threatening"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:14,800",
+				"to": "00:25:20,640"
+			},
+			"offsets": {
+				"from": 1514800,
+				"to": 1520640
+			},
+			"text": " their power. Why are they threatened with preaching resurrection from the dead in Jesus' name?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:20,640",
+				"to": "00:25:27,200"
+			},
+			"offsets": {
+				"from": 1520640,
+				"to": 1527200
+			},
+			"text": " Why is that still threatening? Because if Jesus is the way to heaven,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:27,200",
+				"to": "00:25:35,280"
+			},
+			"offsets": {
+				"from": 1527200,
+				"to": 1535280
+			},
+			"text": " what good is their system? If Jesus is the only way to God, what good is any other religion?"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:35,280",
+				"to": "00:25:44,240"
+			},
+			"offsets": {
+				"from": 1535280,
+				"to": 1544240
+			},
+			"text": " And the honest, but unpopular answer is they're no good. But if that sounds too harsh, too critical,"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:44,240",
+				"to": "00:25:48,640"
+			},
+			"offsets": {
+				"from": 1544240,
+				"to": 1548640
+			},
+			"text": " you believe in Jesus, but you don't want to judge or exclude anyone else, why can't their ways"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:48,640",
+				"to": "00:25:56,480"
+			},
+			"offsets": {
+				"from": 1548640,
+				"to": 1556480
+			},
+			"text": " work too? Well, then you have to answer this question. If there are all these perfectly acceptable"
+		},
+		{
+			"timestamps": {
+				"from": "00:25:56,480",
+				"to": "00:26:05,040"
+			},
+			"offsets": {
+				"from": 1556480,
+				"to": 1565040
+			},
+			"text": " ways to God, then why did Jesus have to die? Why would God sacrifice His own Son if there's all"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:05,040",
+				"to": "00:26:10,080"
+			},
+			"offsets": {
+				"from": 1565040,
+				"to": 1570080
+			},
+			"text": " these acceptable ways to heaven? I mean, if killing animals was fine, if being a law by"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:10,080",
+				"to": "00:26:14,480"
+			},
+			"offsets": {
+				"from": 1570080,
+				"to": 1574480
+			},
+			"text": " enlightened citizen is all it takes to be good enough to get into heaven, why would Jesus set"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:14,480",
+				"to": "00:26:20,400"
+			},
+			"offsets": {
+				"from": 1574480,
+				"to": 1580400
+			},
+			"text": " aside His glory, leave heaven, become human, struggle with the frailies of humanity, be tempted to"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:20,400",
+				"to": "00:26:25,680"
+			},
+			"offsets": {
+				"from": 1580400,
+				"to": 1585680
+			},
+			"text": " sin, beaten almost to death, hang on across for hours until all the blood drains out of His body."
+		},
+		{
+			"timestamps": {
+				"from": "00:26:25,680",
+				"to": "00:26:30,720"
+			},
+			"offsets": {
+				"from": 1585680,
+				"to": 1590720
+			},
+			"text": " Why do that if some weekly prayers and lending a hand to your neighbors and raising some nice"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:30,720",
+				"to": "00:26:35,360"
+			},
+			"offsets": {
+				"from": 1590720,
+				"to": 1595360
+			},
+			"text": " kids is good enough to get you into heaven? As long as you believe in something and you're nice to"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:35,360",
+				"to": "00:26:41,600"
+			},
+			"offsets": {
+				"from": 1595360,
+				"to": 1601600
+			},
+			"text": " people, that'll work. That's why the high priest, the religious leaders, want to stop the disciples"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:41,600",
+				"to": "00:26:48,000"
+			},
+			"offsets": {
+				"from": 1601600,
+				"to": 1608000
+			},
+			"text": " from preaching resurrection through Jesus' name. If He's the way to God, then they are obsolete,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:48,000",
+				"to": "00:26:54,320"
+			},
+			"offsets": {
+				"from": 1608000,
+				"to": 1614320
+			},
+			"text": " they are useless. Why go to the temple and pay your temple taxes and tithe and buy"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:54,320",
+				"to": "00:26:58,800"
+			},
+			"offsets": {
+				"from": 1614320,
+				"to": 1618800
+			},
+			"text": " temple approved sacrifices? Why listen, anything they have to say, if they don't have the way to God,"
+		},
+		{
+			"timestamps": {
+				"from": "00:26:58,800",
+				"to": "00:27:04,320"
+			},
+			"offsets": {
+				"from": 1618800,
+				"to": 1624320
+			},
+			"text": " and the logical answer is, you wouldn't listen to them. There's no benefit to listening to them."
+		},
+		{
+			"timestamps": {
+				"from": "00:27:05,120",
+				"to": "00:27:10,160"
+			},
+			"offsets": {
+				"from": 1625120,
+				"to": 1630160
+			},
+			"text": " If they don't know the way to God. So I don't think the high priest, the religious leaders,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:10,160",
+				"to": "00:27:16,000"
+			},
+			"offsets": {
+				"from": 1630160,
+				"to": 1636000
+			},
+			"text": " cared all that much about what the disciples were saying, except for the fact that they perform"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:16,000",
+				"to": "00:27:23,600"
+			},
+			"offsets": {
+				"from": 1636000,
+				"to": 1643600
+			},
+			"text": " this miracle and people are taking their message seriously. We are studying the book of Acts,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:23,600",
+				"to": "00:27:30,240"
+			},
+			"offsets": {
+				"from": 1643600,
+				"to": 1650240
+			},
+			"text": " which is so named because it records the Acts of the Apostles, and why this information is vital"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:30,240",
+				"to": "00:27:38,400"
+			},
+			"offsets": {
+				"from": 1650240,
+				"to": 1658400
+			},
+			"text": " for us to know is the Acts of the Apostles proved their message, proved they had the power of God"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:38,400",
+				"to": "00:27:47,280"
+			},
+			"offsets": {
+				"from": 1658400,
+				"to": 1667280
+			},
+			"text": " on their side. The power is in whose name? Verse 7. And when they set them in the midst, they ask,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:47,280",
+				"to": "00:27:51,040"
+			},
+			"offsets": {
+				"from": 1667280,
+				"to": 1671040
+			},
+			"text": " \"By what power, what name have you done this?\" And Peter filled with the Holy Spirit said,"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:51,040",
+				"to": "00:27:57,600"
+			},
+			"offsets": {
+				"from": 1671040,
+				"to": 1677600
+			},
+			"text": " \"Rollers of the people, the elders of Israel, if this day you are judging, if we this day are"
+		},
+		{
+			"timestamps": {
+				"from": "00:27:57,600",
+				"to": "00:28:03,200"
+			},
+			"offsets": {
+				"from": 1677600,
+				"to": 1683200
+			},
+			"text": " judged for a good deed done to a helpless man, by what means he has been made well, let it be"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:03,200",
+				"to": "00:28:09,920"
+			},
+			"offsets": {
+				"from": 1683200,
+				"to": 1689920
+			},
+			"text": " made known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:09,920",
+				"to": "00:28:16,000"
+			},
+			"offsets": {
+				"from": 1689920,
+				"to": 1696000
+			},
+			"text": " who you crucified, who God raised from the dead, by him this man stands here before you whole,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:16,000",
+				"to": "00:28:22,080"
+			},
+			"offsets": {
+				"from": 1696000,
+				"to": 1702080
+			},
+			"text": " this Jesus is the stone which is rejected by the builders which has become the chief cornerstone."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:22,080",
+				"to": "00:28:26,720"
+			},
+			"offsets": {
+				"from": 1702080,
+				"to": 1706720
+			},
+			"text": " Nor is there salvation in any other, for there is no other name under having given among men,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:26,720",
+				"to": "00:28:33,200"
+			},
+			"offsets": {
+				"from": 1706720,
+				"to": 1713200
+			},
+			"text": " whereby we must be saved. So the prophecies are fulfilled in Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:28:33,200",
+				"to": "00:28:39,680"
+			},
+			"offsets": {
+				"from": 1713200,
+				"to": 1719680
+			},
+			"text": " The whole stone that the builders reject is become the chief cornerstone. This is what Isaiah spoke"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:39,680",
+				"to": "00:28:45,120"
+			},
+			"offsets": {
+				"from": 1719680,
+				"to": 1725120
+			},
+			"text": " of, Isaiah 28. Therefore, thus says the Lord God, \"I lay in Zion a stone, a foundation,"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:45,120",
+				"to": "00:28:51,360"
+			},
+			"offsets": {
+				"from": 1725120,
+				"to": 1731360
+			},
+			"text": " a tried stone, a precious cornerstone, a sure foundation, whoever bleeds will not act hastily.\""
+		},
+		{
+			"timestamps": {
+				"from": "00:28:51,360",
+				"to": "00:28:56,080"
+			},
+			"offsets": {
+				"from": 1731360,
+				"to": 1736080
+			},
+			"text": " The psalmist reiterates this. The stone that the builders rejected has become the chief"
+		},
+		{
+			"timestamps": {
+				"from": "00:28:56,080",
+				"to": "00:29:02,400"
+			},
+			"offsets": {
+				"from": 1736080,
+				"to": 1742400
+			},
+			"text": " cornerstone. And Jesus, in Matthew 21, quoted that same passage previously to the religious leaders,"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:02,400",
+				"to": "00:29:07,440"
+			},
+			"offsets": {
+				"from": 1742400,
+				"to": 1747440
+			},
+			"text": " Matthew 21. Jesus said, \"Have you never read in the scriptures the stone that the builders"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:07,440",
+				"to": "00:29:13,760"
+			},
+			"offsets": {
+				"from": 1747440,
+				"to": 1753760
+			},
+			"text": " rejected has become the chief cornerstone? This is what God is doing, and it is a marvelous in our eyes."
+		},
+		{
+			"timestamps": {
+				"from": "00:29:13,760",
+				"to": "00:29:19,520"
+			},
+			"offsets": {
+				"from": 1753760,
+				"to": 1759520
+			},
+			"text": " Therefore, I say to you, the kingdom of God will be taken from you and given to a nation that's"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:19,520",
+				"to": "00:29:25,120"
+			},
+			"offsets": {
+				"from": 1759520,
+				"to": 1765120
+			},
+			"text": " bearing the fruit of it. However, falls on this stone will be broken and whoever it falls on"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:25,120",
+				"to": "00:29:29,760"
+			},
+			"offsets": {
+				"from": 1765120,
+				"to": 1769760
+			},
+			"text": " will grind them to powder.\" Now, when the chief priests and the Pharisees heard that"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:29,760",
+				"to": "00:29:37,840"
+			},
+			"offsets": {
+				"from": 1769760,
+				"to": 1777840
+			},
+			"text": " parable, they perceive he's talking about us. Jesus was very clear that he is the fulfillment"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:37,840",
+				"to": "00:29:44,080"
+			},
+			"offsets": {
+				"from": 1777840,
+				"to": 1784080
+			},
+			"text": " of the law and the prophets, that he is the way to God. And so everyone in Jerusalem now has to"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:44,080",
+				"to": "00:29:53,200"
+			},
+			"offsets": {
+				"from": 1784080,
+				"to": 1793200
+			},
+			"text": " decide which is the right way. And we too have that same dilemma. We must decide which way is the right"
+		},
+		{
+			"timestamps": {
+				"from": "00:29:53,200",
+				"to": "00:30:01,040"
+			},
+			"offsets": {
+				"from": 1793200,
+				"to": 1801040
+			},
+			"text": " way. So I'm proclaiming the same thing that Peter did, but I don't have any lame guy that I can"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:01,040",
+				"to": "00:30:07,600"
+			},
+			"offsets": {
+				"from": 1801040,
+				"to": 1807600
+			},
+			"text": " heal him to prove to you that we speak in Jesus' name and his power. So what I want to do is"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:07,600",
+				"to": "00:30:15,440"
+			},
+			"offsets": {
+				"from": 1807600,
+				"to": 1815440
+			},
+			"text": " just take a moment and point to you what we do in Jesus' name. I met with Jerry Nold this week,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:15,440",
+				"to": "00:30:19,600"
+			},
+			"offsets": {
+				"from": 1815440,
+				"to": 1819600
+			},
+			"text": " and he was giving me the update on Northwest Haiti Ministries. And he said something that"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:19,600",
+				"to": "00:30:24,640"
+			},
+			"offsets": {
+				"from": 1819600,
+				"to": 1824640
+			},
+			"text": " made my ears perk up because I was contemplating this passage. Jerry said, \"A miracle happens"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:24,640",
+				"to": "00:30:32,480"
+			},
+			"offsets": {
+				"from": 1824640,
+				"to": 1832480
+			},
+			"text": " every day down there in Haiti.\" What did he mean? Despite all the chaos, the political, social,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:32,480",
+				"to": "00:30:38,960"
+			},
+			"offsets": {
+				"from": 1832480,
+				"to": 1838960
+			},
+			"text": " economic upheaval in the entire nation. Despite the lawlessness, the crime, the lack of resources,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:38,960",
+				"to": "00:30:45,360"
+			},
+			"offsets": {
+				"from": 1838960,
+				"to": 1845360
+			},
+			"text": " infrastructure, despite the demands of 400 students and 50 workers, despite all the obstacles,"
+		},
+		{
+			"timestamps": {
+				"from": "00:30:45,360",
+				"to": "00:30:53,280"
+			},
+			"offsets": {
+				"from": 1845360,
+				"to": 1853280
+			},
+			"text": " 450 people are getting fed every day. 400 students are being trained and learning the gospel."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:53,280",
+				"to": "00:30:59,840"
+			},
+			"offsets": {
+				"from": 1853280,
+				"to": 1859840
+			},
+			"text": " Every meal served is done in the name of Jesus. That's a miracle. It's a miracle that they get there."
+		},
+		{
+			"timestamps": {
+				"from": "00:30:59,840",
+				"to": "00:31:04,880"
+			},
+			"offsets": {
+				"from": 1859840,
+				"to": 1864880
+			},
+			"text": " The pile of stuff downstairs, go take a picture of it. Let's go into Jamaica. So much was"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:04,880",
+				"to": "00:31:10,000"
+			},
+			"offsets": {
+				"from": 1864880,
+				"to": 1870000
+			},
+			"text": " came in. We like, Suzanne's like, \"Please stop bringing stuff.\" We do not have enough barrels."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:11,840",
+				"to": "00:31:19,200"
+			},
+			"offsets": {
+				"from": 1871840,
+				"to": 1879200
+			},
+			"text": " 441 shoebox is going to Operation Christmas Child. Josiah's house in Dominican Republic,"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:19,200",
+				"to": "00:31:25,520"
+			},
+			"offsets": {
+				"from": 1879200,
+				"to": 1885520
+			},
+			"text": " our hospital in Togo, West Africa, refugee center in Spain, just to name a few. These are all the"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:25,520",
+				"to": "00:31:32,720"
+			},
+			"offsets": {
+				"from": 1885520,
+				"to": 1892720
+			},
+			"text": " axe fate Bible church does in the name of Jesus. I wanted to take a minute to show you a video"
+		},
+		{
+			"timestamps": {
+				"from": "00:31:32,720",
+				"to": "00:31:39,120"
+			},
+			"offsets": {
+				"from": 1892720,
+				"to": 1899120
+			},
+			"text": " of this fella. Notice the shirt he's wearing as we pull this video up, and I'll tell you who this is."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:41,840",
+				"to": "00:31:55,200"
+			},
+			"offsets": {
+				"from": 1901840,
+				"to": 1915200
+			},
+			"text": " Brent, do you believe that Jesus died on a cross and rose again? Yes, I did."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:55,200",
+				"to": "00:31:59,840"
+			},
+			"offsets": {
+				"from": 1915200,
+				"to": 1919840
+			},
+			"text": " Are you trusting that Jesus Christ has your glory to the Savior? Yes."
+		},
+		{
+			"timestamps": {
+				"from": "00:31:59,840",
+				"to": "00:32:05,200"
+			},
+			"offsets": {
+				"from": 1919840,
+				"to": 1925200
+			},
+			"text": " In the beauty of the command of our Lord of the Savior, Jesus Christ, I baptize thee, my brother,"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:05,200",
+				"to": "00:32:09,520"
+			},
+			"offsets": {
+				"from": 1925200,
+				"to": 1929520
+			},
+			"text": " my brother Brent Shearer, my name is Father Son, and God who does that."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:12,320",
+				"to": "00:32:18,320"
+			},
+			"offsets": {
+				"from": 1932320,
+				"to": 1938320
+			},
+			"text": " (Applause)"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:18,320",
+				"to": "00:32:26,160"
+			},
+			"offsets": {
+				"from": 1938320,
+				"to": 1946160
+			},
+			"text": " Carol McDermott sent me that video. Who recognized that fella?"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:26,160",
+				"to": "00:32:32,320"
+			},
+			"offsets": {
+				"from": 1946160,
+				"to": 1952320
+			},
+			"text": " I know some of you did. He's one of the folks that we helped in Kentucky through our faith builders"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:32,320",
+				"to": "00:32:37,280"
+			},
+			"offsets": {
+				"from": 1952320,
+				"to": 1957280
+			},
+			"text": " ministry. That's why he was wearing the shirt. He wanted to wear his faith Bible shirt because it was"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:37,280",
+				"to": "00:32:43,600"
+			},
+			"offsets": {
+				"from": 1957280,
+				"to": 1963600
+			},
+			"text": " our team that helped connect him to Jesus, and he watches us online. So Carol tells me. So"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:43,600",
+				"to": "00:32:51,360"
+			},
+			"offsets": {
+				"from": 1963600,
+				"to": 1971360
+			},
+			"text": " praise God for your brother. God bless you. 50 people went to Kentucky to rebuild people's homes."
+		},
+		{
+			"timestamps": {
+				"from": "00:32:51,360",
+				"to": "00:32:59,840"
+			},
+			"offsets": {
+				"from": 1971360,
+				"to": 1979840
+			},
+			"text": " Now there's a revival taking place in Kentucky. I wonder if we helped sow some seeds of faith"
+		},
+		{
+			"timestamps": {
+				"from": "00:32:59,840",
+				"to": "00:33:07,920"
+			},
+			"offsets": {
+				"from": 1979840,
+				"to": 1987920
+			},
+			"text": " into that region. And we give this all away for free. We send it all in the name of Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:07,920",
+				"to": "00:33:12,720"
+			},
+			"offsets": {
+				"from": 1987920,
+				"to": 1992720
+			},
+			"text": " All these people from all over the world who we're trying to help, we don't ask anything from them."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:12,720",
+				"to": "00:33:18,000"
+			},
+			"offsets": {
+				"from": 1992720,
+				"to": 1998000
+			},
+			"text": " It gives us no power or prestige. We're not trying to govern Northwest Haiti. We're not trying"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:18,000",
+				"to": "00:33:24,000"
+			},
+			"offsets": {
+				"from": 1998000,
+				"to": 2004000
+			},
+			"text": " to be the government over there. We're not trying to find a way to capitalize off a poor, needy people."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:24,000",
+				"to": "00:33:29,600"
+			},
+			"offsets": {
+				"from": 2004000,
+				"to": 2009600
+			},
+			"text": " Our counseling ministry, our sexual addiction support ministry. We've got three full-time staff on"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:29,600",
+				"to": "00:33:37,040"
+			},
+			"offsets": {
+				"from": 2009600,
+				"to": 2017040
+			},
+			"text": " here that are providing ministry for no profit to this church. Peter and John gave healing in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:37,040",
+				"to": "00:33:43,360"
+			},
+			"offsets": {
+				"from": 2017040,
+				"to": 2023360
+			},
+			"text": " name of Jesus. So all could hear the message that resurrection comes through faith in Jesus."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:43,360",
+				"to": "00:33:49,280"
+			},
+			"offsets": {
+				"from": 2023360,
+				"to": 2029280
+			},
+			"text": " And the same is true for us. We do all that we do so that the name of Jesus can be glorified."
+		},
+		{
+			"timestamps": {
+				"from": "00:33:49,280",
+				"to": "00:33:55,600"
+			},
+			"offsets": {
+				"from": 2029280,
+				"to": 2035600
+			},
+			"text": " So that people who God loves and Jesus died for will hear there's resurrection through faith"
+		},
+		{
+			"timestamps": {
+				"from": "00:33:55,600",
+				"to": "00:34:02,640"
+			},
+			"offsets": {
+				"from": 2035600,
+				"to": 2042640
+			},
+			"text": " in Jesus. And the only way we can do this is because you've all experienced it yourselves."
+		},
+		{
+			"timestamps": {
+				"from": "00:34:02,640",
+				"to": "00:34:09,760"
+			},
+			"offsets": {
+				"from": 2042640,
+				"to": 2049760
+			},
+			"text": " And you believe it and you want to support the sharing of the gospel and telling everyone"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:09,760",
+				"to": "00:34:17,680"
+			},
+			"offsets": {
+				"from": 2049760,
+				"to": 2057680
+			},
+			"text": " resurrection is through faith in Jesus. Verse 13. Now when they saw the boldness of Peter and John,"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:17,680",
+				"to": "00:34:23,920"
+			},
+			"offsets": {
+				"from": 2057680,
+				"to": 2063920
+			},
+			"text": " they perceive that they were uneducated and untrained, they marveled. And they realized that they've"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:23,920",
+				"to": "00:34:31,120"
+			},
+			"offsets": {
+				"from": 2063920,
+				"to": 2071120
+			},
+			"text": " been with Jesus. Seeing the man who had been healed, standing with them, they could say nothing"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:31,120",
+				"to": "00:34:38,160"
+			},
+			"offsets": {
+				"from": 2071120,
+				"to": 2078160
+			},
+			"text": " against it. But when they had commanded them to go aside out of the council, they conferred amongst"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:38,160",
+				"to": "00:34:44,720"
+			},
+			"offsets": {
+				"from": 2078160,
+				"to": 2084720
+			},
+			"text": " themselves, saying, \"What shall we do with these men?\" For indeed, that a notable miracle has been"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:44,720",
+				"to": "00:34:51,440"
+			},
+			"offsets": {
+				"from": 2084720,
+				"to": 2091440
+			},
+			"text": " done through them is evident to all who dwell in Jerusalem. We can't deny it. But so that it spreads"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:51,440",
+				"to": "00:34:58,960"
+			},
+			"offsets": {
+				"from": 2091440,
+				"to": 2098960
+			},
+			"text": " no further among the people, let us severely threaten them. That from now on, they speak to no man"
+		},
+		{
+			"timestamps": {
+				"from": "00:34:58,960",
+				"to": "00:35:04,560"
+			},
+			"offsets": {
+				"from": 2098960,
+				"to": 2104560
+			},
+			"text": " in this name. So they called them in and they commanded them not to speak at all nor teach."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:04,560",
+				"to": "00:35:08,160"
+			},
+			"offsets": {
+				"from": 2104560,
+				"to": 2108160
+			},
+			"text": " In the name of Jesus, but Peter and John answered and said to them, \"Whether there's right in the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:08,160",
+				"to": "00:35:14,160"
+			},
+			"offsets": {
+				"from": 2108160,
+				"to": 2114160
+			},
+			"text": " sight of God to listen to you more than God you judge, we cannot but speak the things which we have"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:14,160",
+				"to": "00:35:21,280"
+			},
+			"offsets": {
+				"from": 2114160,
+				"to": 2121280
+			},
+			"text": " seen and heard.\" So when they had further threatened them, they let them go, finding no way of"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:21,280",
+				"to": "00:35:26,320"
+			},
+			"offsets": {
+				"from": 2121280,
+				"to": 2126320
+			},
+			"text": " punishing them because the people, since they all glorified God for what had been done."
+		},
+		{
+			"timestamps": {
+				"from": "00:35:26,320",
+				"to": "00:35:35,840"
+			},
+			"offsets": {
+				"from": 2126320,
+				"to": 2135840
+			},
+			"text": " St. Peter looked at all the facts, they can dispute nothing, and all they can come up with is"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:36,640",
+				"to": "00:35:44,640"
+			},
+			"offsets": {
+				"from": 2136640,
+				"to": 2144640
+			},
+			"text": " stop preaching in Jesus' name because we says so. It's our like mom, right? Because I said so,"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:44,640",
+				"to": "00:35:48,800"
+			},
+			"offsets": {
+				"from": 2144640,
+				"to": 2148800
+			},
+			"text": " that's what they came up with. But it doesn't matter to the disciples what they say because the"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:48,800",
+				"to": "00:35:54,080"
+			},
+			"offsets": {
+				"from": 2148800,
+				"to": 2154080
+			},
+			"text": " passion they now have for proclaiming the name of Jesus is greater than any fear that they have"
+		},
+		{
+			"timestamps": {
+				"from": "00:35:54,080",
+				"to": "00:36:00,160"
+			},
+			"offsets": {
+				"from": 2154080,
+				"to": 2160160
+			},
+			"text": " of these religious leaders. 3,000 people trusted in Jesus at Pentecost. And here, after this"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:00,160",
+				"to": "00:36:07,360"
+			},
+			"offsets": {
+				"from": 2160160,
+				"to": 2167360
+			},
+			"text": " sermon, what did it say in verse number four, how many people? 5,000 trusted in Jesus. And they"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:07,360",
+				"to": "00:36:13,680"
+			},
+			"offsets": {
+				"from": 2167360,
+				"to": 2173680
+			},
+			"text": " have to concede, verse number 21. They had no further, they threatened them, they let them go,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:13,680",
+				"to": "00:36:19,040"
+			},
+			"offsets": {
+				"from": 2173680,
+				"to": 2179040
+			},
+			"text": " finding no way of punishing them because of the people since they all glorified God for what had"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:19,040",
+				"to": "00:36:25,840"
+			},
+			"offsets": {
+				"from": 2179040,
+				"to": 2185840
+			},
+			"text": " been done. Everyone's giving glory to God in Jesus' name. And that's what the religious leaders"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:25,840",
+				"to": "00:36:31,120"
+			},
+			"offsets": {
+				"from": 2185840,
+				"to": 2191120
+			},
+			"text": " feared the most. Their power was based on what the people believed and they now believe the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:31,120",
+				"to": "00:36:38,320"
+			},
+			"offsets": {
+				"from": 2191120,
+				"to": 2198320
+			},
+			"text": " disciples had the power of God and are speaking the word of God. They can't risk punishing Peter"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:38,320",
+				"to": "00:36:45,360"
+			},
+			"offsets": {
+				"from": 2198320,
+				"to": 2205360
+			},
+			"text": " and John because they might incite a riot amongst the people. So the disciples' acts prove to the"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:45,360",
+				"to": "00:36:55,200"
+			},
+			"offsets": {
+				"from": 2205360,
+				"to": 2215200
+			},
+			"text": " people that they knew the way to God. What do they prove to you? I quoted this verse earlier,"
+		},
+		{
+			"timestamps": {
+				"from": "00:36:55,200",
+				"to": "00:37:01,840"
+			},
+			"offsets": {
+				"from": 2215200,
+				"to": 2221840
+			},
+			"text": " the wages of sin is death, but the gift of God is eternal life through Jesus Christ or Lord."
+		},
+		{
+			"timestamps": {
+				"from": "00:37:01,840",
+				"to": "00:37:08,800"
+			},
+			"offsets": {
+				"from": 2221840,
+				"to": 2228800
+			},
+			"text": " You can't argue with me on the first part, can you? Everyone's going to die. What comes next,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:08,800",
+				"to": "00:37:16,160"
+			},
+			"offsets": {
+				"from": 2228800,
+				"to": 2236160
+			},
+			"text": " each and every one of us has to decide for ourselves. What way are you going to resurrect?"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:16,160",
+				"to": "00:37:24,160"
+			},
+			"offsets": {
+				"from": 2236160,
+				"to": 2244160
+			},
+			"text": " What way is going to get you to God? Is it through Jesus? Or like the high priest, the religious"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:24,160",
+				"to": "00:37:31,120"
+			},
+			"offsets": {
+				"from": 2244160,
+				"to": 2251120
+			},
+			"text": " leaders are you trying to find another way? Let's pray. Lord, we thank you for this"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:31,120",
+				"to": "00:37:40,160"
+			},
+			"offsets": {
+				"from": 2251120,
+				"to": 2260160
+			},
+			"text": " account which tells us what was happening, what you did, your power, and the more importantly,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:40,160",
+				"to": "00:37:45,680"
+			},
+			"offsets": {
+				"from": 2260160,
+				"to": 2265680
+			},
+			"text": " the message. Neither is there salvation in any other. There is no other name under heaven given"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:45,680",
+				"to": "00:37:51,360"
+			},
+			"offsets": {
+				"from": 2265680,
+				"to": 2271360
+			},
+			"text": " among men whereby we must be saved. May we be bold, may we be diligent, may we be faithful with"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:51,360",
+				"to": "00:37:56,720"
+			},
+			"offsets": {
+				"from": 2271360,
+				"to": 2276720
+			},
+			"text": " that message, and may we take it to a lost and dying world, people that are confused,"
+		},
+		{
+			"timestamps": {
+				"from": "00:37:56,720",
+				"to": "00:38:02,400"
+			},
+			"offsets": {
+				"from": 2276720,
+				"to": 2282400
+			},
+			"text": " looking for the ways and can't find them. Lord, may we get the message, we never stop trying to be"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:02,400",
+				"to": "00:38:08,160"
+			},
+			"offsets": {
+				"from": 2282400,
+				"to": 2288160
+			},
+			"text": " faithful to take that message to all these people that you love, that there is a way, and it is"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:08,160",
+				"to": "00:38:12,720"
+			},
+			"offsets": {
+				"from": 2288160,
+				"to": 2292720
+			},
+			"text": " through Jesus. So we pray for everyone here today. There's anyone that hasn't trusted in Jesus,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:12,720",
+				"to": "00:38:17,920"
+			},
+			"offsets": {
+				"from": 2292720,
+				"to": 2297920
+			},
+			"text": " may they repent of their sins, and may they ask for your forgiveness, that you died for them,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:17,920",
+				"to": "00:38:22,720"
+			},
+			"offsets": {
+				"from": 2297920,
+				"to": 2302720
+			},
+			"text": " and that you rose again, and you have the way to eternal life through faith in Him,"
+		},
+		{
+			"timestamps": {
+				"from": "00:38:22,720",
+				"to": "00:38:27,920"
+			},
+			"offsets": {
+				"from": 2302720,
+				"to": 2307920
+			},
+			"text": " bring somebody to that saving faith today. We pray this in Jesus' name. Amen."
+		}
+	]
+}
